@@ -1,7 +1,7 @@
 # ¡Hola, soy pirataRam! 👋
 
 ¡Bienvenido a mi perfil de GitHub!  
-Mi nombre es Ram, desarrollador apasionado por la tecnología, la programación y el aprendizaje continuo. Siempre en busca de nuevos retos y oportunidades para crecer y compartir conocimiento.
+Mi nombre es Israel Ramírez, desarrollador apasionado por la tecnología, la programación y el aprendizaje continuo. Siempre en busca de nuevos retos y oportunidades para crecer y compartir conocimiento.
 
 ---
 
